@@ -51,7 +51,7 @@ export class RegisterComponent implements OnInit {
         alert('User already exist');
       }
     } else {
-      localStorage.setItem('users', JSON.stringify([payload]));
+      localStorage.setItem('users', JSON.stringify([payload])); 
     }
   }
 

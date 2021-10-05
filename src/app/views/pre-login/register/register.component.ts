@@ -52,6 +52,7 @@ export class RegisterComponent implements OnInit {
       }
     } else {
       localStorage.setItem('users', JSON.stringify([payload]));
+      
     }
   }
 

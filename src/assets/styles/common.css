@@ -1,0 +1,18 @@
+.m-t-10-per {
+    margin-top: 10%;
+}
+
+.w-30-per {
+    width: 30%;
+}
+
+.m-t-20-px {
+    margin-top: 20px;
+}
+
+.error {
+    margin-bottom: 0px;
+    color: red;
+    margin-top: -10px;
+    font-size: 10px;
+}
